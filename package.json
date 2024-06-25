@@ -1,0 +1,12 @@
+{
+  "name": "com.legi.shared_variables",
+  "version": "1.0.0",
+  "displayName": "Shared Variables",
+  "description": "Shared Variables adds save support to list and name variable components of Game Creator 2 shared across save slots but using the native save system.",
+  "changelogUrl": "https://github.com/Legi428/Shared-Variables/blob/master/CHANGELOG.md",
+  "unity": "2022.3",
+  "author": {
+    "name": "Legi",
+    "email": "f_marco@gmx.de"
+  }
+}
